@@ -1,4 +1,4 @@
-# Express.js: News api with pagination
+# Express.js: News API with pagination
 
 ## Description
 Using Express to show articles with pagination. Getting the latest news with the News API.
