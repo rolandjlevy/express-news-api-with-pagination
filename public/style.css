@@ -1,0 +1,25 @@
+.font-weight-400 {
+  font-weight: 400 !important;
+  color: red !important;
+}
+
+.font-weight-700 {
+  font-weight: 700 !important;
+  color: green !important;
+}
+
+.active {
+  font-weight:700;
+  text-decoration:none;
+  border: 1px solid grey;
+  background-color: #dedede;
+  padding: 2px 5px;
+}
+
+.passive {
+  font-weight:400;
+  text-decoration:none;
+  border: 1px solid transparent;
+  background-color: #efefef;
+  padding: 2px 5px;
+}
