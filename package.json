@@ -7,10 +7,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^3.0.1",
+    "body-parser": "latest",
     "dotenv": "^8.1.0",
-    "node-fetch": "^2.6.0",
-    "express": "latest",
-    "body-parser": "latest"
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "index.js": "0.0.3",
+    "node": "^14.2.0",
+    "node-fetch": "^2.6.0"
   }
 }
